@@ -1,0 +1,171 @@
+h1 {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 3vw !important;
+  font-weight: 400;
+}
+
+h2 {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 2vw !important;
+  font-weight: 600;
+}
+
+h3 {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 1vw;
+  font-weight: 400;
+}
+
+h4 {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 0.5vw;
+  font-weight: 600;
+}
+
+h5 {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 0.3vw;
+  font-weight: 400;
+}
+
+body {
+  background-color: #FFFAFB;
+}
+
+#header{
+  height: 100px;
+  padding-top: 2%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.navbar-brand {
+  max-width: 19%;
+  height: auto;
+}
+
+.merc-icon {
+  max-width: 100%;
+  height: auto;
+}
+
+.navbar-nav {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 1.2vw;
+}
+
+#home {
+  padding-top: 15%;
+}
+
+#floor {
+  background: url(../img/floor.png);
+  width: 100%;
+  height: 614px;
+  position: absolute;
+  z-index: -2;
+}
+
+#hand {
+  background: url(../img/hand.png);
+  width: 824px;
+  height: 770px;
+  position: absolute;
+  left: 45%;
+  top: 40%;
+  z-index: -2;
+}
+
+#elements {
+  width: 90%;
+  height: 100%;
+  position: absolute;
+  z-index: -1;
+}
+
+#coinA {
+  margin-left: 90%;
+  margin-top: -10%;
+}
+
+#coinB {
+  margin-left: 45%;
+  margin-top: 20%;
+}
+
+#profileA {
+  margin-left: 55%;
+  margin-top: -4%;
+}
+
+#profileB {
+  margin-left: 64%;
+  margin-top: -7%;
+}
+
+
+#egg {
+  margin-left: 62%;
+  margin-top: 2%;
+}
+
+#slogan {
+  margin-left: 9%;
+  margin-top: 2%;
+  width: 35%;
+}
+
+#downloads {
+  margin-left: 9%;
+}
+
+#appstore {
+  width: 18%;
+  height: auto;
+  display: inline-block;
+}
+
+.store-img {
+  max-width: 100%;
+  height: auto;
+}
+
+#googleplay {
+  width: 18%;
+  height: auto;
+  display:inline-block;
+}
+
+
+#roadmap {
+  text-align: center;
+  margin-top: 35%;
+}
+
+#team {
+  text-align: center;
+  margin-top: 80%;
+}
+
+#partners {
+  text-align: center;
+  margin-top: 80%;
+}
+
+#newsletter {
+  text-align: center;
+  margin-top: 80%;
+}
+
+#emailinput {
+  margin: 5%;
+  width: 50%;
+  height: 80px;
+  border-width: 2px;
+  border-color: black;
+}
+
+#footer {
+  text-align: center;
+  margin-top: 30%;
+}
