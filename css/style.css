@@ -33,14 +33,14 @@ body {
 }
 
 #header{
-  height: 100px;
-  padding-top: 2%;
+  height: auto;
+  padding-top: 1%;
   padding-left: 5%;
   padding-right: 5%;
 }
 
 .navbar-brand {
-  max-width: 19%;
+  max-width: 20%;
   height: auto;
 }
 
@@ -51,7 +51,7 @@ body {
 
 .navbar-nav {
   font-family: 'Space Grotesk', sans-serif;
-  font-size: 1.2vw;
+  font-size: 1.3vw;
 }
 
 #home {
@@ -90,7 +90,7 @@ body {
   max-width: 8%;
   max-height: auto;
   margin-left: 90%;
-  margin-top: -10%;
+  margin-top: -5%;
 }
 
 #coinB {
