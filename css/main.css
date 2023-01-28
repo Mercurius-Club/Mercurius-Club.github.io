@@ -213,7 +213,7 @@ body {
     line-height: 120%;
     padding: 7%;
     background-color: #ffffff;
-    border: 1px solid black;
+    border: 0.1vw solid black;
 }
 
 .todo {
@@ -224,9 +224,9 @@ body {
     line-height: 120%;
     padding: 7%;
     background-color: #ffffff;
-    border-left: 1px solid black;
-    border-right: 1px solid black;
-    border-bottom: 1px solid black;
+    border-left: 0.1vw solid black;
+    border-right: 0.1vw solid black;
+    border-bottom: 0.1vw solid black;
 }
 
 .team-title {
@@ -336,7 +336,7 @@ body {
 #email {
     width: 100%;
     height: 100%;
-    border: 2px solid black;
+    border: 0.2vw solid black;
     font-family: 'Libre Baskerville' !important;
     font-size: 1.8vw !important;
     font-weight: 400 !important;
