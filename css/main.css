@@ -162,7 +162,7 @@ body {
 
 .q1-2023 {
     position: absolute;
-    margin-left: 21%;
+    margin-left: 18%;
     margin-top: 22vw;
     z-index: 1;
     width: 13%;
@@ -171,7 +171,7 @@ body {
 
 .q2-2023 {
     position: absolute;
-    margin-left: 42%;
+    margin-left: 35%;
     margin-top: 15vw;
     z-index: 1;
     width: 13%;
@@ -179,7 +179,7 @@ body {
 
 .q3-2023 {
     position: absolute;
-    margin-left: 63%;
+    margin-left: 52%;
     margin-top: 21vw;
     z-index: 1;
     width: 13%;
@@ -187,8 +187,16 @@ body {
 
 .q4-2023 {
     position: absolute;
-    margin-left: 84%;
+    margin-left: 69%;
     margin-top: 16vw;
+    z-index: 1;
+    width: 13%;
+}
+
+.q1-2024 {
+    position: absolute;
+    margin-left: 86%;
+    margin-top: 9vw;
     z-index: 1;
     width: 13%;
 }
