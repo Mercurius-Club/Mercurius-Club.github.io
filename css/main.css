@@ -140,6 +140,7 @@ body {
 
 .roadmap {
     margin-top: 5vw;
+    position: relative;
 }
 
 .roadmap-title {
@@ -152,10 +153,23 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    position: relative;
+    z-index: 2;
+}
+
+.roadmap-title-shadow {
+    width: 13%;
+    height: 5vw;
+    background: linear-gradient(to right, #94D7F1, #F08EB9);
+    position: absolute;
+    left: 5.5%;
+    display: inline-flex;
+    top: 0.5vw;
+    z-index: 1;
 }
 
 .roadmap-background {
-    width: 100%;
+    width: 95.7%;
     margin-left: 5%;
     margin-top: -3vw;
 }
@@ -237,6 +251,11 @@ body {
     border-bottom: 0.1vw solid black;
 }
 
+.team {
+    margin-top: 5vw;
+    position: relative;
+}
+
 .team-title {
     margin-left: 5%;
     background-color: #000;
@@ -247,6 +266,19 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    position: relative;
+    z-index: 2;
+}
+
+.team-title-shadow {
+    width: 8%;
+    height: 5vw;
+    background: linear-gradient(to right, #94D7F1, #F08EB9);
+    position: absolute;
+    left: 5.5%;
+    display: inline-flex;
+    top: 0.5vw;
+    z-index: 1;
 }
 
 .p-img {
